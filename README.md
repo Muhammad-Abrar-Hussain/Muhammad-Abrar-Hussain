@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I am Muhammad Abrar Hussain</h1>
-<h3 align="center">Learner @ Full Stack Web Development @ Machine Learning</h3>
+<h1 align="left">Hey 👋, I am Muhammad Abrar Hussain</h1>
+<h3 align="left">Learner @ Full Stack Web Development @ Machine Learning</h3>
 
 - 👯 I’m looking to collaborate on **Web development & Machine Learning**
 
