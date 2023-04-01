@@ -35,9 +35,8 @@ src="https://img.shields.io/twitter/follow/muhammad Abrar Hussain?logo=twitter&s
 <p align="left">
 <a href="https://twitter.com/m__abrarhussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m__abrarhussain" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad-abrar-hussain-9171a8204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-abrar-hussain-9171a8204" height="30" width="40" /></a>
-</p>
+</p> 
 
-
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-abrar-hussain&show_icons=true&locale=en&layout=compact" alt="muhammad-abrar-hussain" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-abrar-hussain&show_icons=true&locale=en&layout=compact" alt="muhammad-abrar-hussain" /></p> 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=muhammad-abrar-hussain&show_icons=true&locale=en" alt="muhammad-abrar-hussain" /></p>
  
-
