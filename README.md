@@ -4,8 +4,8 @@
 
 - 🌍 I'm based in Pakistan
 - 📫 You can contact me at **abrahussain304@gmail.com**
-- 👯 I’m looking to collaborate on **Web development & Machine Learning**
-- 🤝  I'm open to collaborating on Web Dev Projects, especially Front End Part
+- 👯 I’m looking to collaborate on **Web development projects**
+- 🤝  I'm open to collaborating on Web development Projects, especially Front End Part
 
 
 <a href="https://twitter.com/m__abrarhussain" target="_blank" rel="noreferrer"><img
