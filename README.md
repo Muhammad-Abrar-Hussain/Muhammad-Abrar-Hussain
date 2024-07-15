@@ -1,11 +1,11 @@
 <h1 align="left">Hey 👋, I am Muhammad Abrar Hussain</h1>
 <h3 align="left">Learner @ Full Stack Web Development & Machine Learning</h3>
-<p>I am Muhammad Abrar Hussain, currently pursuing BS Computer Science journey at Namal University, Mianwali. I Love to learn new Technology. I am always open to collaborate on projects, innovative ideas and obviously learn more.</p>
+<p>I am Muhammad Abrar Hussain, and I graduated in Computer Science. I Love to learn new Technology. I am always open to collaborating on projects, innovative ideas, and learning more.</p>
 
 - 🌍 I'm based in Pakistan
-- 📫 You can contact me at **abrarhussain2020@namal.edu.pk**
+- 📫 You can contact me at **abrahussain304@gmail.com**
 - 👯 I’m looking to collaborate on **Web development & Machine Learning**
-- 🤝  I'm open to collaborating on Web Dev Projects especially Front End Part
+- 🤝  I'm open to collaborating on Web Dev Projects, especially Front End Part
 
 
 <a href="https://twitter.com/m__abrarhussain" target="_blank" rel="noreferrer"><img
